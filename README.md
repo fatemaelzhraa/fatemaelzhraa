@@ -20,7 +20,7 @@
          <li>Responsive Design</li>
       </ul>
       
- # TECHNICAL SKILLS & TOOLS
+ # SOFT SKILLS
   <ul>
         <li>Fast Learning</li>
         <li>Problem solving</li>
